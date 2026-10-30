@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thm.rubiworkshop.com/sitemap.xml
